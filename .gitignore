@@ -1,2 +1,5 @@
 archivo2.txt
 
+logs/
+!logs/d.txt
+
